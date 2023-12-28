@@ -5,3 +5,4 @@ Kelompok 1
 -Mirna Wati K.Beluano
 -Sophia Imawaty AR
 -Satria Bintang Pamungkas
+-
